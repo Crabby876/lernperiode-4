@@ -33,10 +33,10 @@ Ich denke ich werde mehrere kleine Projekte machen und dabei neue sachen lernen 
 
 27.2.2024
 
-[ ] Infromieren über AIP                 
-[ ] AIP benutzen Lernen                     
-[ ] Wettervorhersage Projekt planen                                
-[ ] Wettervorhersage Projekt anfangen mit Coden und designen                          
+- [ ] Infromieren über AIP                 
+- [ ] AIP benutzen Lernen                     
+- [ ] Wettervorhersage Projekt planen                                
+- [ ] Wettervorhersage Projekt anfangen mit Coden und designen                          
  
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
