@@ -32,6 +32,7 @@ Ich denke ich werde mehrere kleine Projekte machen und dabei neue sachen lernen 
 ✍️ Heute habe ich meine Grobplanung erstellt und habe mir Ziele für diesen LP festgelegt. Ich hab mich entschieden in dieser LP API zu lernen und habe heute einwenig darüber recheschiert und finde das es ein guter und interessanter Thema ist um zu lernen. (50-100 Wörter)
 
 27.2.2024
+
 [ ] Infromieren über AIP
 [ ] AIP benutzen Lernen
 [ ] Wettervorhersage Projekt planen
@@ -43,6 +44,7 @@ Ich denke ich werde mehrere kleine Projekte machen und dabei neue sachen lernen 
 | 2              |   kann AIP nicht in C# benutzen      |    nichts      | kann AIP in C# verwenden |     nein    |
 | 3              |keinen Plan wie der Projeckt aufgebaut wird | nichts| einen guten Plan  |  nein  |
 | 4              |   kein Projekt       |  nichts        | Projekt vorhanden  |     nein     |
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
