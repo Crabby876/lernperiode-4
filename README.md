@@ -32,12 +32,11 @@ Ich denke ich werde mehrere kleine Projekte machen und dabei neue sachen lernen 
 ✍️ Heute habe ich meine Grobplanung erstellt und habe mir Ziele für diesen LP festgelegt. Ich hab mich entschieden in dieser LP API zu lernen und habe heute einwenig darüber recheschiert und finde das es ein guter und interessanter Thema ist um zu lernen. (50-100 Wörter)
 
 27.2.2024
-
 [ ] Infromieren über AIP                 
 [ ] AIP benutzen Lernen                     
 [ ] Wettervorhersage Projekt planen                                
 [ ] Wettervorhersage Projekt anfangen mit Coden und designen                          
-
+ 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
 | 1              |        Keine Infos   |  nichts        | Informiert über AIP |  nein    |
