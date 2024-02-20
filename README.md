@@ -29,9 +29,12 @@ Was wäre ein geeignetes Projekt für diese LP4?
 Ich denke ich werde mehrere kleine Projekte machen und dabei neue sachen lernen und ausprobieren. Eins davon ist sicher eine Wetter Voraussage
 
 20.2.2024
-✍️ Heute habe ich meine Grobplanung erstellt und habe mir Ziele für diesen LP festgelegt. Ich hab mich entschieden in dieser LP API zu lernen und habe heute einwenig darüber recheschiert und finde das es ein guter und interessanter Thema ist um zu lernen. (50-100 Wörter)
+✍️ Heute habe ich meine Grobplanung erstellt und habe mir Ziele für diesen LP festgelegt. Ich hab mich entschieden in dieser LP API zu lernen und habe heute einwenig darüber recheschiert und finde das es ein guter und interessanter Thema ist um zu lernen. (67 Wörter)
 
 27.2.2024
+
+[]
+[]
 [ ] Infromieren über AIP                 
 [ ] AIP benutzen Lernen                     
 [ ] Wettervorhersage Projekt planen                                
