@@ -1,49 +1,50 @@
 # Lern-Periode 4
+
 Doruk Güler
 
-20.2 bis 2.4.2024
+20.2. bis 2.4.2024
 
 Grob-Planung
 Wo stehen Sie mit Ihren Noten?
-Gut
+Gut.
 
 In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend?
+Meiner Meinung nach waren meine Noten in den bisherigen Modulen immer ziemlich gut. Das Modul, welches mir am meisten Schwierigkeiten gemacht hat, war M117.
 
 Welche davon sind besonders wichtig?
-M319 weil es uns C# bei bringt
+M319, weil es uns C# beibringt.
 
 Was hatten Sie sich am Ende von LP3 vorgenommen?
-Das ich meine Codes schöner gestalte
+Dass ich meine Codes schöner gestalte, also besser strukturiere.
 
 Was war Ihr VBV?
-Heute beim überarbeiten meines Codes habe ich bemärkt dass ich ziemlich komisch und unverständliche Codes mache, deshalb habe ich mir für die nächste LP vorgenommen mehr 
-Acht darauf zu geben und hoffentlich meine Codes zu verbessern.
+Heute beim Überarbeiten meines Codes habe ich bemerkt, dass ich ziemlich komische und unverständliche Codes schreibe. Deshalb habe ich mir für die nächste LP vorgenommen, mehr darauf zu achten und hoffentlich meine Codes zu verbessern.
 
-Wie könnten Sie diesen besonders gut üben?
-In dem ich weiter hin viele codes schreibe und drauf achte
+Wie könnten Sie das besonders gut üben?
+Indem ich weiterhin viele Codes schreibe und darauf achte.
 
 Neu: Was möchten Sie Neues lernen?
-API
+API.
 
 Was wäre ein geeignetes Projekt für diese LP4?
-Ich denke ich werde mehrere kleine Projekte machen und dabei neue sachen lernen und ausprobieren. Eins davon ist sicher eine Wetter Voraussage
+Ich denke, ich werde mehrere kleine Projekte machen und dabei neue Sachen lernen und ausprobieren. Eins davon ist sicher eine Wettervorhersage.
 
 20.2.2024
-✍️ Heute habe ich meine Grobplanung erstellt und habe mir Ziele für diesen LP festgelegt. Ich hab mich entschieden in dieser LP API zu lernen und habe heute einwenig darüber recheschiert und finde das es ein guter und interessanter Thema ist um zu lernen. (67 Wörter)
+✍️ Heute habe ich meine Grobplanung erstellt und mir Ziele für diesen LP festgelegt. Ich habe mich entschieden, in dieser LP APIs zu lernen und habe heute ein wenig darüber recherchiert. Ich finde, dass es ein gutes und interessantes Thema ist, um zu lernen. (67 Wörter)
 
 27.2.2024
 
-- [ ] Infromieren über API                 
-- [ ] API benutzen Lernen                     
-- [ ] Wettervorhersage Projekt planen                                
-- [ ] Wettervorhersage Projekt anfangen mit Coden und designen                          
+- [ ] Postman tutorials ansehen.                
+- [ ] API in Postman aus probieren und üben.                   
+- [ ] Herausfinden wie APIs in C# eingebaut werden können.                               
+- [ ] Wettervorhersage Projekt planen (falls Zeit anfangen).                          
  
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |        Keine Infos   |  nichts        | Informiert über AIP |  nein    |
-| 2              |   kann AIP nicht in C# benutzen      |    nichts      | kann AIP in C# verwenden |     nein    |
-| 3              |keinen Plan wie der Projeckt aufgebaut wird | nichts| einen guten Plan  |  nein  |
-| 4              |   kein Projekt       |  nichts        | Projekt vorhanden  |     nein     |
+| 1              |        Postman heruntergeladen  |  nichts        | kann Postman nutzen |  nein    |
+| 2              |   Postman noch nie verwendet     |    nichts      | kennt sich mit Postman einwenig aus. |     nein    |
+| 3              | Weiss nicht wie API in C# verwendet werden | nichts| Kann APIs ind C# einigermassen benutzen  |  nein  |
+| 4              |   keinen Plan wie der Projeckt aufgebaut wird      |  nichts        | hat einen guten Plan für Wettervorhersage App.  |     nein     |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
