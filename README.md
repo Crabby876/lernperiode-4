@@ -55,7 +55,7 @@ Ich denke, ich werde mehrere kleine Projekte machen und dabei neue Sachen lernen
 - [ ] Gratis API finden welches Wetter daten anzeigt.                  
 - [ ] Projekt Wettervorhersage starten.                            
 
-  | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
 | 1              |      Wenig erfahrung mit http abfragen in C# |  üben        | kann alle nötigen abfragen und versteht den code |  nein    |
 | 2              |   kann Json code nicht in C# verwandeln     |    Dokus lesen und Tutorials ansehen      | kann Json erfolgreich in C# umwandeln |     nein    |
