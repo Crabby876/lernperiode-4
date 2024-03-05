@@ -50,19 +50,34 @@ Ich denke, ich werde mehrere kleine Projekte machen und dabei neue Sachen lernen
 
 5.3.2024
 
-- [ ] http Abfragen in C# besser üben und verstehen.
-- [ ] Lernen wie man Json code in C# code umwandelt um in code weiter zu verwenden.               
-- [ ] Gratis API finden welches Wetter daten anzeigt.                  
+- [x] http Abfragen in C# besser üben und verstehen.
+- [x] Lernen wie man Json code in C# code umwandelt um in code weiter zu verwenden.               
+- [x] Gratis API finden welches Wetter daten anzeigt.                  
 - [ ] Projekt Wettervorhersage starten.                            
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |      Wenig erfahrung mit http abfragen in C# |  üben        | kann alle nötigen abfragen und versteht den code |  nein    |
-| 2              |   kann Json code nicht in C# verwandeln     |    Dokus lesen und Tutorials ansehen      | kann Json erfolgreich in C# umwandeln |     nein    |
-| 3              | hat keinen API für Wetter app projekt | google suche | hat einen gratis API für Projekt  |  nein  |
+| 1              |      Wenig erfahrung mit http abfragen in C# |  üben        | kann alle nötigen abfragen und versteht den code |  ja    |
+| 2              |   kann Json code nicht in C# verwandeln     |    Dokus lesen und Tutorials ansehen      | kann Json erfolgreich in C# umwandeln |     ja    |
+| 3              | hat keinen API für Wetter app projekt | google suche | hat einen gratis API für Projekt  |  ja  |
 | 4              |  kein Projekt vorhanden     |  neues Projekt erstellen        | hat einen neuen Projekt für den Wetter app |     nein     |
+
+Heute habe ich mein wissen über APIs in C# verbessert. Bessergesagt habe ich anhanden von Beispiel APIs die wichtigsten abfragen geübt und einen GET Beispiel auch hoch geladen. Danach habe ich heute noch ein bisschen über das umwandeln von JSON code in C# angeschaut jedoch verstehe ich nicht ganz alle Schritte und muss es mir noch einwenig an schauen. Das Suchen und Informieren über JSON zu C# wurde mir langweilig also habe ich mal für Abwechsulng begonnen einen Passenden API für Wetterberichte gesucht doch meine Zeit war auch schon ziemlich schnell um. (89 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+
+- [x] JSON zu C# übersetzen gut verstehen
+- [x] Wetter API finden             
+- [x] Projeckt erstellen
+- [ ] Projecktplan mit designen beginen          
+                           
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| -------------- | -------------------- | -------------- | -------------- | -------- |
+| 1              |     Kann JSON code umwandeln in C# aber versteht nicht |  code studieren        | Versteht den code |  nein    |
+| 2              | hat keinen API für Wetter app projekt | google suche | hat einen gratis API für Projekt  |  ja  |
+| 3              |  kein Projekt vorhanden     |  neues Projekt erstellen        | hat einen neuen Projekt für den Wetter app |     nein     |
+| 4              |   Projekt leer    |   arbeiten      | Projekt hat einen grobben  Design |     ja    |
