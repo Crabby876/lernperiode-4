@@ -69,9 +69,9 @@ Heute habe ich mein wissen über APIs in C# verbessert. Bessergesagt habe ich an
 Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
-- [x] JSON zu C# übersetzen gut verstehen
-- [x] Wetter API finden             
-- [x] Projeckt erstellen
+- [ ] JSON zu C# übersetzen gut verstehen
+- [ ] Wetter API finden             
+- [ ] Projeckt erstellen
 - [ ] Projecktplan mit designen beginen          
                            
 
