@@ -82,18 +82,6 @@ Heute habe ich mein wissen über APIs in C# verbessert. Bessergesagt habe ich an
 
 Heute wollte ich wie geplant an den API projekt weiter arbeiten doch leider habe ich festgestellt, dass ich es gar nicht verstehe und keinen Plan habe wie das Abrufen von einer Info mir Helfen sollte eine Wettervorheersage zu machen. Ich habe mich versucht durch videos und Dokus zu informieren jedoch habe ich es immer noch nicht wirklich verstanden. Bevor es mir dann langweilig wurde und ich die Intresse verlor habe ich mich entschieden das API Thema noch nicht jetzt zu lernen sondern irgendwan später. Ich habe mir vorgenommen das Thema Dictionaries anzu schauen und das Speichern und abrufen von Daten auf einer txt. Datei. Ich habe begonnen mich einwenig zu informieren und denke das dieses Thema eher passt und verständlicher ist für mich deshalb werde ich meine Ideen um ändern. (143)
 
-- [x] C# Programm erstellen und alles über Dictionaries testen(lernen durch testen)
-- [x] Daten in einen txt. Datei speichern          
-- [x] Daten aus einer txt. Datei abrufen
-- [x] Daten von txt. Datei trennen und in Dictionaries speicher   
-                           
-
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |   Kennt nicht alles über Dicionaries   |  versucht alles mögliche mit Dictionaries       | kann ziemlich gut mit Dictionaries umgehen|  nein    |
-| 2              | Weiss nicht wie man text in txt. Datei speichern kann | informieren | hat erfolgreich texte in txt. Datei gespeichert  |  nein  |
-| 3              |  kann keine Daten aus txt. Dateien abrrufen     |  informieren       | kann gespeicherte Dateien abrufen |     nein     |
-| 4              |   abgerufte Daten sind nur als String vorhanden    |   versucht zu trennen und n Dictionary speichern      | ein Dictionary mit allen Daten |     nein    |
 
 - [x] C# Programm erstellen und alles über Dictionaries testen(lernen durch testen)
 - [x] Daten in einen txt. Datei speichern          
@@ -106,17 +94,32 @@ Heute wollte ich wie geplant an den API projekt weiter arbeiten doch leider habe
 | 1              |   Kennt nicht alles über Dicionaries   |  versucht alles mögliche mit Dictionaries       | kann ziemlich gut mit Dictionaries umgehen|  ja    |
 | 2              | Weiss nicht wie man text in txt. Datei speichern kann | informieren | hat erfolgreich texte in txt. Datei gespeichert  |  ja  |
 | 3              |  kann keine Daten aus txt. Dateien abrrufen     |  informieren       | kann gespeicherte Dateien abrufen |     ja    |
-| 4              |   abgerufte Daten sind nur als String vorhanden    |   versucht zu trennen und n Dictionary speichern      | ein Dictionary mit allen Daten |     ja    |
+| 4              |   abgerufte Daten sind nur als String vorhanden    |   versucht zu trennen und in Dictionary speichern      | ein Dictionary mit allen Daten |     ja    |
 
-- [ ] WinForms Tastaturschreiben spiel projekt erstellen
-- [ ] Txt. Datei mit 50 oder mehr deutsche wörter   
-- [ ] Random text generator mit 25 random deutschen wörtern
+
+- [x] WinForms Tastaturschreiben spiel projekt erstellen
+- [x] Txt. Datei mit 50 oder mehr deutsche wörter   
+- [x] Random text generator mit 25 random deutschen wörtern
 - [ ] Wort überprüfer versuchen programmieren.   
                            
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |   kein WinForms   |  erstellt Projekt       | hat WinForms Projekt|  nein    |
-| 2              | hat kein txt. Datei mit 50 Wörter | txt. Datei erstellen | hat txt. Datei mit 50 Wörter  |  nein  |
-| 3              |  kann random Text generien aus den 50 Wörtern     |  text generator programmieren      | random text generator funktioiert |     nein    |
-| 4              |  Kein Wortüberprüfer programmiert   |   programmiert wor überprüfer    | hat funktionierenden Wortüberprüfer |     nein    |
+| 1              |   kein WinForms   |  erstellt Projekt       | hat WinForms Projekt|  ja    |
+| 2              | hat kein txt. Datei mit 50 Wörter | txt. Datei erstellen | hat txt. Datei mit 50 Wörter  |  ja  |
+| 3              |  kann random Text generien aus den 50 Wörtern     |  text generator programmieren      | random text generator funktioiert |     ja    |
+| 4              |  Kein Wortüberprüfer programmiert   |   programmiert wor überprüfer    | hat funktionierenden Wortüberprüfer |     noch nicht    |
+
+Heute war ein ziemlich erfolgreicher Tag. Als erstes habe ich den Layout designed mit einem Label und einem TextBox und mehr brauchte ich auchnicht. Danach habe ich einen Textgenerator erstellt der aus den 50 wörtern random 25 aussucht und die dann in form von einem Satz anzeigt. Als nächstes musste ich ein bisschen rechechieren, wie ich den Inhalt eines TextBoxes bei jeder update auf ein string einspeichern kann und bin nach etwa einer halben Stunde draufgekommen. Jetzt musste ich nur noch einen Überprüfer programmieren was mir jedoch noch nicht gelang
+
+- [ ] Wörter überprüfer richtig programmieren vielleicht auch buchstabe für buchstabe überprüfen.
+- [ ] Fehler rot markieren
+- [ ] WPM an zeigen und speichern
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| -------------- | -------------------- | -------------- | -------------- | -------- |
+| 1              |   kein Wörterüberprüfer vorhanden   |  erstellt Wörterüberrüfer       | hat WinForms Projekt|  nein    |
+| 2              | Fehler werden normal projektiert | code schreiben | fehler werden rot angezeigt  |  nein  |
+| 3              | man kann nicht sehen wie schnell man war     | programmieren     | Scorw wird in WPM angezeigt |     nein    |
+
+
